@@ -1,0 +1,7 @@
+SpeechRecognition==1.1.4
+cffi==0.8.6
+pycparser==2.10
+pyobjc-core==3.0.4
+pyspotify==2.0.0b4
+requests==2.5.3
+wsgiref==0.1.2
